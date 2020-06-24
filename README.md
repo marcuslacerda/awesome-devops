@@ -18,7 +18,7 @@ Culture
 
 Automation
 -------
-
+-  [Humanitec](https://humanitec.com) - The Continuous Delivery API for Kubernetes-ready applications
 
 Lean Flow
 -------
